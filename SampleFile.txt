@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 THis is a test file
 
 changed again
 
 Kept on editing this
+=======
+THis is a test file
+>>>>>>> parent of 9872195... Done
