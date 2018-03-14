@@ -1,4 +1,5 @@
 package com.teambpm.restapi.sample.hateaos;
+//added some sample comment -sreekant
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
