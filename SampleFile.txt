@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+THis is a test file
+
+changed again
+
+Kept on editing this
+=======
+THis is a test file
+>>>>>>> parent of 9872195... Done
+
+<<<<<<< HEAD
+
+ok, now I am adding here on the client.
+=======
+Added on the server too.
+>>>>>>> origin/master
